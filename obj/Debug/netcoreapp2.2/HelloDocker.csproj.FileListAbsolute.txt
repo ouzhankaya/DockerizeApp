@@ -1,0 +1,14 @@
+/Users/oguzhankaya/Projects/HelloDocker/bin/Debug/netcoreapp2.2/HelloDocker.deps.json
+/Users/oguzhankaya/Projects/HelloDocker/bin/Debug/netcoreapp2.2/HelloDocker.runtimeconfig.json
+/Users/oguzhankaya/Projects/HelloDocker/bin/Debug/netcoreapp2.2/HelloDocker.runtimeconfig.dev.json
+/Users/oguzhankaya/Projects/HelloDocker/bin/Debug/netcoreapp2.2/HelloDocker.dll
+/Users/oguzhankaya/Projects/HelloDocker/bin/Debug/netcoreapp2.2/HelloDocker.pdb
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.csprojAssemblyReference.cache
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.RazorAssemblyInfo.cache
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.RazorAssemblyInfo.cs
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.AssemblyInfoInputs.cache
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.AssemblyInfo.cs
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.RazorTargetAssemblyInfo.cache
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.dll
+/Users/oguzhankaya/Projects/HelloDocker/obj/Debug/netcoreapp2.2/HelloDocker.pdb
